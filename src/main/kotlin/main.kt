@@ -1,13 +1,11 @@
 package org.virtuslab.inkuieexample
 
-
-
-class XD {
+class MyClass {
     fun main(args: Array<String>) {
         println("Hello World!")
         1.toString()
     }
 
-    fun xd(i: Int): Int = 1
+    fun muFunction(i: Int): Int = 1
 }
 
